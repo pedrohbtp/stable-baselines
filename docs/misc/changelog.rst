@@ -26,6 +26,7 @@ Others:
 
 Documentation:
 ^^^^^^^^^^^^^^
+- Add Snake Game AI project (@pedrohbtp)
 
 
 Release 2.8.0 (2019-09-29)
@@ -94,7 +95,6 @@ Documentation:
 - Fix and rename custom policy names (@eavelardev)
 - Add documentation on exporting models.
 - Update maintainers list (Welcome to @Miffyli)
-- Add Snake Game AI project (@pedrohbtp)
 
 
 Release 2.7.0 (2019-07-31)
