@@ -145,4 +145,5 @@ The game was trained using PPO2 available from stable-baselines and
 then exported to tensorflowjs to run directly on the browser
 
 | Author: Pedro Torres (@pedrohbtp)
+| Repository: https://github.com/pedrohbtp/snake-rl
 | Website: https://www.pedro-torres.com/snake-rl/
